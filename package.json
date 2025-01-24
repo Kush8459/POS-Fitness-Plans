@@ -1,0 +1,29 @@
+{
+  "name": "pos",
+  "version": "1.0.0",
+  "description": "POS-MERN app",
+  "main": "server.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js --ignore './client/'",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\" ",
+    "seed": "node seeder.js"
+  },
+  "author": "Mujahid",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "colors": "^1.4.0",
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
