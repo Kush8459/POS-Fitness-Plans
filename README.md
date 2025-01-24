@@ -19,7 +19,7 @@ This project is a **Point of Sale (POS) Interface** designed for selling fitness
 ## Installation and Setup
 1. Clone the repository (replace with your GitHub link):
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/Kush8459/POS-Fitness-Plans>
    ```
 2. Navigate to the project directory:
    ```bash
@@ -77,7 +77,17 @@ project-directory
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it as per your requirements.
 
----
 
 **Note**: The GitHub repository link will be added once the project is uploaded.
+
+## Github
+- **Github**: [Kush8459](https://github.com/Kush8459/POS-Fitness-Plans)
+
+
+## Contact
+
+For any questions or feedback, please contact:
+
+- **Email**: agrawalkushb@gmail.com
+- **LinkedIn**: [Agrawal Kush](https://www.linkedin.com/in/agrawal-kush-9a5184212/)
 
